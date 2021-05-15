@@ -6,5 +6,5 @@
 <p>
   This is the E-cell, UIET KUK website made using "HTML, CSS, and JavaScript".
   <br>
-  You can Check it out at <a href="https://ecelluietkuk.web.app/">ecelluietkuk.web.app</a>
+  You can Check it out at <a href="https://ecelluietkuk.web.app/">https://startup-champs.netlify.app/</a>
     </p>
