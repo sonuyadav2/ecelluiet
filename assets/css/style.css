@@ -1506,29 +1506,26 @@ color: black;
 
 .footer-logo{
 text-align: center;
-  height:150px;
+  height:auto;
   
 }
 .footer-links {
-padding-left: 35%;
+  text-align: center;
+
 }
 
 .footer-links ul{
-  display: flex;
-  text-align: center;
   list-style-type: none;
-  
+  display: flex;
 }
 .footer-links ul a{
   font-size: 40px;
-padding: 20px;
-
+  padding: 10px;
+color: red;
+display: flex;
 
 }
-.footer-links a{
-  color: blue;
-  font-size: 20px;
-}
+
 .footer-mail  {
 text-align: center;
 }
